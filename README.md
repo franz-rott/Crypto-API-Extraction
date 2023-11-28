@@ -5,7 +5,7 @@ This project is dedicated to extracting cryptocurrency data using APIs. The main
 
 ## Getting Started
 
-### Dependencies
+### Dependencies 
 - Python 3.10.9
 - Libraries such as `requests` for API calls, `pandas` for data manipulation, and any other specific libraries used for data processing and analysis.
 - Jupyter Notebook or an environment that can run `.ipynb` files.
